@@ -1,0 +1,24 @@
+{
+  "name": "dbserver",
+  "version": "1.0.0",
+  "description": "My connection",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" : "node db/db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamerAK101/dbserver.git"
+  },
+  "author": "AK's",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamerAK101/dbserver/issues"
+  },
+  "homepage": "https://github.com/gamerAK101/dbserver#readme"
+}
